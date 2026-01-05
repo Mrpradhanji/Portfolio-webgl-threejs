@@ -59,7 +59,7 @@ const Hero = () => {
             className="mb-6"
           >
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 mt-20">
-              <Typewriter text="Hi, I'm Adrian" className="text-white" />
+              <Typewriter text="Hi, I'm Rohit" className="text-white" />
             </h1>
             <h2 className="text-2xl md:text-3xl font-medium text-gray-300 mb-8">
               I&apos;m a <span className="text-blue-400">
