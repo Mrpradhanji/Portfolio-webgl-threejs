@@ -64,14 +64,13 @@ const Hero = () => {
             <h2 className="text-2xl md:text-3xl font-medium text-gray-300 mb-8">
               I&apos;m a <span className="text-blue-400">
                 <Typewriter 
-                  texts={['Developer', 'Designer', 'Problem Solver']} 
+                  texts={['Software Developer','Fullstack Developer']} 
                   delay={100}
                 />
               </span>
             </h2>
             <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-8">
-              Crafting exceptional digital experiences with modern web technologies
-              and creative solutions.
+            I build scalable full-stack applications used by thousands of users.
             </p>
           </motion.div>
 
